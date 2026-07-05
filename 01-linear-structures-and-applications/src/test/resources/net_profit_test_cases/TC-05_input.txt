@@ -1,0 +1,4 @@
+buy 10 price 10
+buy 0 price 15
+sell 5 price 12
+sell 0 price 20

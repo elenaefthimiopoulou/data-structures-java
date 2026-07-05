@@ -1,0 +1,17 @@
+Total Words: 25
+you: 5
+how: 3
+exams: 2
+many: 2
+thank: 2
+about: 1
+are: 1
+fine: 1
+for: 1
+have: 1
+hello: 1
+study: 1
+too: 1
+very: 1
+well: 1
+will: 1

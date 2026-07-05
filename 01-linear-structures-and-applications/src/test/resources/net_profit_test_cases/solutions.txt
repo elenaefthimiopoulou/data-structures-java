@@ -1,0 +1,21 @@
+TC-01_input: Total net profit: 465.0000000000001
+TC-02_input: Total net profit: 160.0
+TC-03_input: Total net profit: 400.0
+TC-04_input: Total net profit: 200.0
+TC-05_input: Total net profit: 10.0
+TC-06_input: Total net profit: 0.0
+TC-07_input: Error: Attempting to sell 60 shares, but only 50 are available.
+TC-08_input: Total net profit: 65.0
+TC-09_input: Total net profit: 0.0
+TC-11_input: Total net profit: 8146.629999999999
+TC-12_input: Total net profit: -38499.15
+TC-13_input: Total net profit: -176011.22000000006
+TC-14_input: Total net profit: 206013.33999999988
+TC-15_input: Total net profit: 366308.31999999995
+TC-16_input: Total net profit: 266375.4899999998
+TC-17_input: Total net profit: -1052944.9199999971
+TC-18_input: Total net profit: -27288.380000000983
+TC-19_input: Total net profit: 2552842.389999988
+TC-20_input: Total net profit: -4260471.7399999555
+TC-10_input: Error: Could not read file 'non_existent_file.txt'.
+TC-21_input: Error: Invalid number format in the input file.

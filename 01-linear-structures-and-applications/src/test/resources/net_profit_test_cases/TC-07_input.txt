@@ -1,0 +1,3 @@
+buy 20 price 10
+buy 30 price 12
+sell 60 price 15

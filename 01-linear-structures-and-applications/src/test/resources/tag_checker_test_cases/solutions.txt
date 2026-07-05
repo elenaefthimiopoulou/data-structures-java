@@ -1,0 +1,26 @@
+BC-01: The HTML file has balanced tags.
+BC-02: Error at line 1: Mismatched tag. Expected </p>, but found </body>.
+BC-03: Error: Reached end of file, but the following tags were not closed:
+[p, body, html]
+BC-04: Error at line 1: Found closing tag </p> with no matching opening tag.
+NS-01: The HTML file has balanced tags.
+NS-02: Error at line 1: Mismatched tag. Expected </p>, but found </b>.
+NS-03: Error at line 1: Mismatched tag. Expected </b>, but found </a>.
+FW-01: The HTML file has balanced tags.
+FW-02: The HTML file has balanced tags.
+FW-03: The HTML file has balanced tags.
+FW-04: The HTML file has balanced tags.
+FW-05: The HTML file has balanced tags.
+SC-01: The HTML file has balanced tags.
+SC-02: The HTML file has balanced tags.
+SC-03: The HTML file has balanced tags.
+ME-01: The HTML file has balanced tags.
+ME-02: The HTML file has balanced tags.
+ME-03: Error: Reached end of file, but the following tags were not closed:
+[body, html]
+ME-04: Error at line 1: Mismatched tag. Expected </p>, but found </p$!>.
+ME-05: Error: Reached end of file, but the following tags were not closed:
+[html]
+ME-06: Error at line 1: Mismatched tag. Expected </body>, but found </html>.
+CS-01: The HTML file has balanced tags.
+CS-02: The HTML file has balanced tags.

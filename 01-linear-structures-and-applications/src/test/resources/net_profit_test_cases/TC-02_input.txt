@@ -1,0 +1,5 @@
+buy 10 price 10
+buy 10 price 12
+sell 15 price 15
+buy 20 price 11
+sell 20 price 16

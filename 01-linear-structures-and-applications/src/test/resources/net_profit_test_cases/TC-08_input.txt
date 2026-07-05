@@ -1,0 +1,4 @@
+buy 10 price 10
+this is a malformed line
+buy 20 price 12
+sell 15 price 15

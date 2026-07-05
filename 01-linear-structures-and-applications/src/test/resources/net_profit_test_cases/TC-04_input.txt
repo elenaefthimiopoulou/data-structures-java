@@ -1,0 +1,2 @@
+buy 100 price 10
+sell 40 price 15
